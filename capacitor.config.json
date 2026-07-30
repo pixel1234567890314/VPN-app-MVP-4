@@ -1,0 +1,8 @@
+{
+  "appId": "com.vpnforgood.app",
+  "appName": "VPN for Good",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
